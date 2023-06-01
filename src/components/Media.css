@@ -1,0 +1,19 @@
+.media_content {
+	padding: 5%;
+}
+.media_list {
+	list-style-type: none;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 0 2% 6% 2%;
+	font-weight: bold;
+	border-bottom: 1px solid rgb(222, 227, 233);
+
+}
+
+.media_list a {
+	text-decoration: none;
+	color: inherit;
+	cursor: pointer;
+}

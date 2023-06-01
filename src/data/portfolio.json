@@ -1,0 +1,29 @@
+{
+	"welcome": "Hey! This is ",
+	"name": "Cholan Madala",
+	"profile": "JavaScript Developer",
+	"content": "with passion to innovate and experiment. Solution Expert!!",
+	"quick_words": "With 10 years of experience into Software Development, I bring my versatile development skills and chivalry to the table.",
+	"email": "cholanmadala1510@gmail.com",
+	"getInTouchContent": "Let's get in touch",
+	"contactMeButtonText": "Contact Me",
+	"followMeContent": "Follow me",
+	"socailMedia": [
+		[
+			"LI",
+			"https://linkedin.com"
+		],
+		[
+			"SO",
+			"https://stackoverflow.com"
+		],
+		[
+			"FB",
+			"https://facebook.com"
+		],
+		[
+			"TW",
+			"https://twitter.com"
+		]
+	]
+}

@@ -1,0 +1,21 @@
+.mobile_nav_bar {
+	position: fixed;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	padding: 10%;
+	width: 100%;
+	box-sizing: border-box;
+	color: #fff;
+	font-size: x-large;
+}
+
+.mobile_nav_translate {
+	background: #41b1b491;
+		height: 1000px;
+		width: 100%;
+		z-index: 2;
+		position: absolute;
+		transform: translate(390px, 0);
+		transition-duration: 2s;
+}

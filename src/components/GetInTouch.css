@@ -1,0 +1,16 @@
+.get_in_touch {
+	padding: 5%;
+}
+
+.contact_button {
+	padding: 2%;
+	height: 45px;
+	font-size: large;
+	font-weight: bold;
+	font-family: 'sans-serif';
+}
+
+.contact_button a {
+	text-decoration: none;
+	color: inherit;
+}

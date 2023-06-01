@@ -1,0 +1,24 @@
+.content {
+	margin-top: 15%;
+	padding: 5%;
+	font-family: 'sans-serif';
+	color: #000;
+}
+
+.content h2 {
+	line-height: 33px;
+}
+
+.content p {
+	padding: 5%;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+.profile {
+	font-size: 28px;
+	font-weight: bold;
+	color: #f22500;
+}
